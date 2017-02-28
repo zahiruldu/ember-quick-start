@@ -1,0 +1,7 @@
+.links a {
+	text-decoration: none;
+	padding: 5px;
+	background-color: grey;
+	color: black;
+	margin-left: 5px;
+}
