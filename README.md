@@ -15,8 +15,8 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
-* `git clone <repository-url>` this repository
-* `cd quick-ember`
+* `git clone git@github.com:zahiruldu/ember-quick-start.git`
+* `cd ember-quick-start`
 * `npm install`
 * `bower install`
 
